@@ -1,4 +1,4 @@
-# 🛍️ WearMart – Product Management Dashboard
+# 🛍️ PixelMart – Product Management Dashboard
 
 A modern **Next.js 14 e-commerce dashboard** with authentication, product management, and a responsive UI.  
 Built using **React 19, TypeScript, Tailwind CSS, and shadcn/ui**.
